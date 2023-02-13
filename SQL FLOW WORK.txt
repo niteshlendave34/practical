@@ -1,0 +1,47 @@
+capture photo for every hotspot
+import photo from camera to device(mobile or laptop)
+arrange the images based on the floor
+rename the photos based on the board shown in image(hotspot no)
+execute the script to create tool
+execute the tool to update tour
+create the entryin database for capture
+create the entry in database for tour
+create the folder and rename it as per the capture id
+move the pano folder in the newly created folder
+upload the folder on the aws under the expected floor id
+create the folder and rename it as per the capture id
+ move tour.html tour.js and tour.xml in newly created captured folder
+upload the tour.html tour.js and tour.xml on shared server under the "floorid/tours"
+delete reamining file a from tour folder
+check the tour on website
+
+staruml.io
+
+Draw.io
+
+select insert update truncate join(innerjoin,leftjoin,rightjoin) delete transaction
+
+
+
+
+
+
+
+
+
+
+CREATE TABLE 'persons'
+'first_name' ;
+'last_name';
+'age';
+'City';
+'id';
+);
+
+
+'student'
+'userid'
+'username'
+'age'
+'city'
+'country'
